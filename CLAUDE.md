@@ -9,3 +9,8 @@ This repository has no source code, build system, or tests yet. The only tracked
 When code is added, update this file with:
 - Build, lint, and test commands, including how to run a single test
 - A high-level description of the architecture
+
+
+- Keep code simple and commented, I'm learning
+- Make small changes, don't rewrite whole files
+- Plan before writing code
